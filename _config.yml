@@ -9,9 +9,8 @@
 title: My Blog
 email: msh907@kookmin.ac.kr
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is Min Seung-ho's Eureka Project Class Blog of Software Department 20212991.
+  This is a blog to upload what was covered in this special lecture on the use of GitHub.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
