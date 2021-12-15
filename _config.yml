@@ -24,4 +24,4 @@ plugins:
 comment:
   provider:           "disqus"
   disqus:
-    shortname:        "seungho-eureka"
+    shortname:        "seungho-eureka.disqus.com"
