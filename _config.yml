@@ -22,6 +22,6 @@ theme: minima
 plugins:
  - jekyll-feed
 comment:
-  provider:           "disqus"
+  provider:          "disqus"
   disqus:
-    shortname:        "seungho-eureka.disqus.com"
+    shortname:       "seungho-eureka.disqus.com"
